@@ -1,0 +1,6 @@
+data/
+models/
+*.mp4
+*.avi
+*.mkv
+*.npy
